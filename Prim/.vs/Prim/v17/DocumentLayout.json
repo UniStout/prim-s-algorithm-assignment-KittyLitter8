@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D9E4EE9E-3BB0-4907-B595-B6766E22DD42}|Prim\\Prim.vcxproj|solutionrelative:Prim\\Prim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9E4EE9E-3BB0-4907-B595-B6766E22DD42}|Prim\\Prim.vcxproj|C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9E4EE9E-3BB0-4907-B595-B6766E22DD42}|Prim\\Prim.vcxproj|solutionrelative:Prim\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9E4EE9E-3BB0-4907-B595-B6766E22DD42}|Prim\\Prim.vcxproj|C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\Prim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9E4EE9E-3BB0-4907-B595-B6766E22DD42}|Prim\\Prim.vcxproj|solutionrelative:Prim\\Prim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\input.txt",
+              "RelativeDocumentMoniker": "Prim\\input.txt",
+              "ToolTip": "C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\input.txt",
+              "RelativeToolTip": "Prim\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-28T20:40:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Prim.h",
               "DocumentMoniker": "C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\Prim.h",
               "RelativeDocumentMoniker": "Prim\\Prim.h",
               "ToolTip": "C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\Prim.h",
               "RelativeToolTip": "Prim\\Prim.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-26T14:12:32.741Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Prim\\Prim.cpp",
               "ToolTip": "C:\\Repositories\\prim-s-algorithm-assignment-KittyLitter8\\Prim\\Prim\\Prim.cpp",
               "RelativeToolTip": "Prim\\Prim.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-26T14:09:39.39Z",
               "EditorCaption": ""
